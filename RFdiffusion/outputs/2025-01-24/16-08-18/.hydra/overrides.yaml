@@ -1,0 +1,3 @@
+- inference.output_prefix=example_outputs/design_unconditional
+- contigmap.contigs=[100-200]
+- inference.num_designs=10

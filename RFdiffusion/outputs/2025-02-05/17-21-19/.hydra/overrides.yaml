@@ -1,0 +1,5 @@
+- inference.output_prefix=output/partial
+- inference.input_pdb=examples/input_pdbs/2KL8.pdb
+- contigmap.contigs=[79-79]
+- inference.num_designs=10
+- diffuser.partial_T=10

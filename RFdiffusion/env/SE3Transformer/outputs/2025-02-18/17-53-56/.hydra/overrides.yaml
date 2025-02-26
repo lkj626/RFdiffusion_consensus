@@ -1,0 +1,4 @@
+- contigmap.contigs=[150-150]
+- inference.input_pdb=/tmp/gradio/1f89901caee1f43d7f182d654cf1643bc17f6c0fa3ec1f7e336dc88560e97245/4hhb.pdb
+- inference.output_prefix=/home/gangjin/RFdiffusion_consensus/RF_outputs/20250218_175355
+- inference.num_designs=1

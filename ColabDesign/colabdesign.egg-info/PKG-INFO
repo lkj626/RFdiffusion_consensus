@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: colabdesign
+Version: 1.1.2
+Summary: Making Protein Design accessible to all via Google Colab!
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: py3Dmol
+Requires-Dist: absl-py
+Requires-Dist: biopython
+Requires-Dist: chex
+Requires-Dist: dm-haiku
+Requires-Dist: dm-tree
+Requires-Dist: immutabledict
+Requires-Dist: jax
+Requires-Dist: ml-collections
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scipy
+Requires-Dist: optax
+Requires-Dist: joblib
+Requires-Dist: matplotlib
+
+Making Protein Design accessible to all via Google Colab!

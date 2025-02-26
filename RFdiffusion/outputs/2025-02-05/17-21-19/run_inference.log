@@ -1,0 +1,134 @@
+[2025-02-05 17:21:19,822][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4090. Will run RFdiffusion on NVIDIA GeForce RTX 4090
+[2025-02-05 17:21:19,822][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /home/gangjin/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2025-02-05 17:21:21,951][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2025-02-05 17:21:22,061][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2025-02-05 17:21:22,068][__main__][INFO] - Making design output/partial_0
+[2025-02-05 17:21:22,072][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:22,082][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:23,252][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:23,606][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:23,945][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:24,282][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:24,618][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:24,954][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:25,292][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:25,628][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:25,963][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:26,420][__main__][INFO] - Finished design in 0.07 minutes
+[2025-02-05 17:21:26,421][__main__][INFO] - Making design output/partial_1
+[2025-02-05 17:21:26,424][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:26,434][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:26,771][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:27,109][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:27,457][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:27,793][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:28,129][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:28,464][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:28,800][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:29,136][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:29,472][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:29,904][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:29,904][__main__][INFO] - Making design output/partial_2
+[2025-02-05 17:21:29,907][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:29,917][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:30,251][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:30,587][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:30,922][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:31,257][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:31,592][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:31,928][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:32,264][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:32,598][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:32,933][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:33,364][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:33,364][__main__][INFO] - Making design output/partial_3
+[2025-02-05 17:21:33,368][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:33,377][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:33,711][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:34,046][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:34,380][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:34,715][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:35,051][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:35,385][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:35,720][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:36,053][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:36,388][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:36,818][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:36,818][__main__][INFO] - Making design output/partial_4
+[2025-02-05 17:21:36,822][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:36,831][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:37,167][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:37,502][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:37,837][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:38,172][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:38,507][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:38,843][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:39,179][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:39,514][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:39,849][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:40,281][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:40,281][__main__][INFO] - Making design output/partial_5
+[2025-02-05 17:21:40,285][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:40,294][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:40,627][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:40,963][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:41,297][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:41,633][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:41,968][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:42,302][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:42,637][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:42,972][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:43,307][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:43,737][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:43,737][__main__][INFO] - Making design output/partial_6
+[2025-02-05 17:21:43,741][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:43,750][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:44,082][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:44,416][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:44,752][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:45,086][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:45,421][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:45,755][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:46,089][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:46,424][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:46,758][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:47,189][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:47,189][__main__][INFO] - Making design output/partial_7
+[2025-02-05 17:21:47,193][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:47,202][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:47,536][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:47,870][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:48,205][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:48,540][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:48,874][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:49,209][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:49,543][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:49,878][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:50,212][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:50,643][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:50,643][__main__][INFO] - Making design output/partial_8
+[2025-02-05 17:21:50,646][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:50,656][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:50,990][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:51,324][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:51,659][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:51,993][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:52,328][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:52,663][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:52,997][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:53,331][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:53,665][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:54,099][__main__][INFO] - Finished design in 0.06 minutes
+[2025-02-05 17:21:54,099][__main__][INFO] - Making design output/partial_9
+[2025-02-05 17:21:54,102][rfdiffusion.inference.model_runners][INFO] - Using contig: ['79-79']
+[2025-02-05 17:21:54,111][rfdiffusion.inference.model_runners][INFO] - Sequence init: -------------------------------------------------------------------------------
+[2025-02-05 17:21:54,446][rfdiffusion.inference.model_runners][INFO] - Timestep 10, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:54,782][rfdiffusion.inference.model_runners][INFO] - Timestep 9, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:55,117][rfdiffusion.inference.model_runners][INFO] - Timestep 8, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:55,452][rfdiffusion.inference.model_runners][INFO] - Timestep 7, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:55,786][rfdiffusion.inference.model_runners][INFO] - Timestep 6, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:56,119][rfdiffusion.inference.model_runners][INFO] - Timestep 5, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:56,452][rfdiffusion.inference.model_runners][INFO] - Timestep 4, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:56,788][rfdiffusion.inference.model_runners][INFO] - Timestep 3, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:57,123][rfdiffusion.inference.model_runners][INFO] - Timestep 2, input to next step: -------------------------------------------------------------------------------
+[2025-02-05 17:21:57,555][__main__][INFO] - Finished design in 0.06 minutes

@@ -1,0 +1,4 @@
+[2025-02-05 17:11:22,106][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4090. Will run RFdiffusion on NVIDIA GeForce RTX 4090
+[2025-02-05 17:11:22,106][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /home/gangjin/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2025-02-05 17:11:24,227][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2025-02-05 17:11:24,335][rfdiffusion.diffusion][INFO] - Using cached IGSO3.

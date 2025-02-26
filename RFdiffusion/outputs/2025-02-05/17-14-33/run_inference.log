@@ -1,0 +1,24 @@
+[2025-02-05 17:14:33,785][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4090. Will run RFdiffusion on NVIDIA GeForce RTX 4090
+[2025-02-05 17:14:33,786][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /home/gangjin/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2025-02-05 17:14:35,898][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2025-02-05 17:14:36,005][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2025-02-05 17:14:36,088][__main__][INFO] - Making design /home/gangjin/RFdiffusion_0
+[2025-02-05 17:14:36,088][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_0.pdb already exists.
+[2025-02-05 17:14:36,088][__main__][INFO] - Making design /home/gangjin/RFdiffusion_1
+[2025-02-05 17:14:36,088][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_1.pdb already exists.
+[2025-02-05 17:14:36,088][__main__][INFO] - Making design /home/gangjin/RFdiffusion_2
+[2025-02-05 17:14:36,088][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_2.pdb already exists.
+[2025-02-05 17:14:36,088][__main__][INFO] - Making design /home/gangjin/RFdiffusion_3
+[2025-02-05 17:14:36,088][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_3.pdb already exists.
+[2025-02-05 17:14:36,088][__main__][INFO] - Making design /home/gangjin/RFdiffusion_4
+[2025-02-05 17:14:36,088][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_4.pdb already exists.
+[2025-02-05 17:14:36,088][__main__][INFO] - Making design /home/gangjin/RFdiffusion_5
+[2025-02-05 17:14:36,088][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_5.pdb already exists.
+[2025-02-05 17:14:36,089][__main__][INFO] - Making design /home/gangjin/RFdiffusion_6
+[2025-02-05 17:14:36,089][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_6.pdb already exists.
+[2025-02-05 17:14:36,089][__main__][INFO] - Making design /home/gangjin/RFdiffusion_7
+[2025-02-05 17:14:36,089][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_7.pdb already exists.
+[2025-02-05 17:14:36,089][__main__][INFO] - Making design /home/gangjin/RFdiffusion_8
+[2025-02-05 17:14:36,089][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_8.pdb already exists.
+[2025-02-05 17:14:36,089][__main__][INFO] - Making design /home/gangjin/RFdiffusion_9
+[2025-02-05 17:14:36,089][__main__][INFO] - (cautious mode) Skipping this design because /home/gangjin/RFdiffusion_9.pdb already exists.

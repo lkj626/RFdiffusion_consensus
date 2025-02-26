@@ -1,0 +1,4 @@
+- inference.input_pdb=input_pdbs/5TPN.pdb
+- contigmap.contigs=[10-40/A163-181/10-40]
+- inference.num_designs=10
+- inference.output_prefix=/home/gangjin/RFdiffusion

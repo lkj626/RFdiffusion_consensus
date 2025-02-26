@@ -1,0 +1,9 @@
+[2025-01-24 15:24:32,226][__main__][INFO] - ////////////////////////////////////////////////
+[2025-01-24 15:24:32,226][__main__][INFO] - ///// NO GPU DETECTED! Falling back to CPU /////
+[2025-01-24 15:24:32,226][__main__][INFO] - ////////////////////////////////////////////////
+[2025-01-24 15:24:32,227][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /home/gangjin/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2025-01-24 15:24:33,269][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2025-01-24 15:24:35,354][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2025-01-24 15:24:35,361][__main__][INFO] - Making design test_outputs/test_0
+[2025-01-24 15:24:35,363][rfdiffusion.inference.model_runners][INFO] - Using contig: ['150-150']
+[2025-01-24 15:24:35,376][rfdiffusion.inference.model_runners][INFO] - Sequence init: ------------------------------------------------------------------------------------------------------------------------------------------------------

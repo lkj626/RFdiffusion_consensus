@@ -1,0 +1,26 @@
+[2025-02-03 10:19:29,116][__main__][INFO] - ////////////////////////////////////////////////
+[2025-02-03 10:19:29,116][__main__][INFO] - ///// NO GPU DETECTED! Falling back to CPU /////
+[2025-02-03 10:19:29,117][__main__][INFO] - ////////////////////////////////////////////////
+[2025-02-03 10:19:29,117][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /home/gangjin/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2025-02-03 10:19:30,545][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2025-02-03 10:19:30,653][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2025-02-03 10:19:30,659][__main__][INFO] - Making design test_outputs/test_0
+[2025-02-03 10:19:30,659][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_0.pdb already exists.
+[2025-02-03 10:19:30,659][__main__][INFO] - Making design test_outputs/test_1
+[2025-02-03 10:19:30,659][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_1.pdb already exists.
+[2025-02-03 10:19:30,659][__main__][INFO] - Making design test_outputs/test_2
+[2025-02-03 10:19:30,659][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_2.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_3
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_3.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_4
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_4.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_5
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_5.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_6
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_6.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_7
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_7.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_8
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_8.pdb already exists.
+[2025-02-03 10:19:30,660][__main__][INFO] - Making design test_outputs/test_9
+[2025-02-03 10:19:30,660][__main__][INFO] - (cautious mode) Skipping this design because test_outputs/test_9.pdb already exists.

@@ -1,0 +1,6 @@
+- inference.output_prefix=/home/gangjin/RFdiffusion/output_ppi
+- inference.input_pdb=examples/input_pdbs/3IOL.pdb
+- contigmap.contigs=[B10-35/0 70-100]
+- ppi.hotspot_res=[B28,B29]
+- inference.num_designs=10
+- contigmap.inpaint_str=[B10-35]

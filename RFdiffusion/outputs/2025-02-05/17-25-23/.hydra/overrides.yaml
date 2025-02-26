@@ -1,0 +1,11 @@
+- scaffoldguided.target_path=examples/input_pdbs/insulin_target.pdb
+- inference.output_prefix=output_ppi
+- scaffoldguided.scaffoldguided=True
+- ppi.hotspot_res=[A59,A83,A91]
+- scaffoldguided.target_pdb=True
+- scaffoldguided.target_ss=target_folds/insulin_target_ss.pt
+- scaffoldguided.target_adj=target_folds/insulin_target_adj.pt
+- scaffoldguided.scaffold_dir=./ppi_scaffolds/
+- inference.num_designs=10
+- denoiser.noise_scale_ca=0
+- denoiser.noise_scale_frame=0

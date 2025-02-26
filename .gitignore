@@ -1,0 +1,4 @@
+params/*.npz
+RFdiffusion/models/*.pt
+RFdiffusion/Anaconda3-2024.06-1-Linux-x86_64.sh
+anaconda3/
